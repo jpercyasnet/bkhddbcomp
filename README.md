@@ -14,3 +14,5 @@ hdinit.csv is a dump of the hd database
 exclude.excfile is a text file which excludes files and directories.
 
 see documentation repository for additional information
+
+very slow because of database calls. Please see bkhdflatcomp for alternative.
